@@ -18,12 +18,12 @@
 
 # 🤍 𝗭𝗜𝗣 𝗙𝗜𝗟𝗘 𝗛𝗘𝗥𝗘
 </a></p>
-- <a href="https://www.mediafire.com/file/lz3npz1yonl1sc0/POPKID-GLE-main.zip/file"><img title="𝗕𝗢𝗧 𝗭𝗜𝗣" src="https://img.shields.io/badge/𝗕𝗢𝗧 𝗭𝗜𝗣-h?color=yellow&style=for-the-badge&logo=nike&logoColor=brown" width="240" height="38.45"/></a></p>
+- <a href="https://www.mediafire.com/file/23ctszpjssutgvr/POPKID-GLE-main_%252833%2529.zip/file"><img title="𝗕𝗢𝗧 𝗭𝗜𝗣" src="https://img.shields.io/badge/𝗕𝗢𝗧 𝗭𝗜𝗣-h?color=yellow&style=for-the-badge&logo=nike&logoColor=brown" width="240" height="38.45"/></a></p>
 
 
 # 🤍 ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
 </a></p>
-- <a href="https://popkidglebotsession.onrender.com"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/LOG IN FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="240" height="38.45"/></a></p>
+- <a href="https://kindasessions.onrender.com/"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/LOG IN FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="240" height="38.45"/></a></p>
 
 # 💝 ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ
 
